@@ -1,0 +1,5 @@
+Dependencies for Project 'LED', Target 'Target 1': (DO NOT MODIFY !)
+F (.\STM32F10x.s)(0x4A028246)(--cpu Cortex-M3 -g --apcs=interwork -I f:\Keil\ARM\RV31\INC -I f:\Keil\ARM\CMSIS\Include -I f:\Keil\ARM\Inc\ST\STM32F10x --list ".\List\STM32F10x.lst" --xref -o ".\Obj\STM32F10x.o" --depend ".\Obj\STM32F10x.d")
+F (.\Source\main.c)(0x5246871D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I f:\Keil\ARM\RV31\INC -I f:\Keil\ARM\CMSIS\Include -I f:\Keil\ARM\Inc\ST\STM32F10x -o ".\Obj\main.o" --omf_browse ".\Obj\main.crf" --depend ".\Obj\main.d")
+F (.\Source\sys.c)(0x4D32E15C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -o ".\Obj\sys.o" --omf_browse ".\Obj\sys.crf" --depend ".\Obj\sys.d")
+F (.\Source\新建文本文档.html)(0x522879CF)()
